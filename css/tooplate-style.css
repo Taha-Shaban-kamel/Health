@@ -71,7 +71,9 @@ http://www.tooplate.com/view/2098-health
   /*---------------------------------------
      GENERAL               
   -----------------------------------------*/
-
+  .DesignBy{
+    color: #a5c422;
+  }
   html{
     -webkit-font-smoothing: antialiased;
   }
